@@ -6,16 +6,20 @@ Mi nombre es Alexandra y en este repositorio encontraras los inicios de mi carre
 
 
 
+*20200822* 
 
+Temario:
 
+•	Flujo de datos en un proyecto de NLP (pipeline)
+•	Métodos de adquisición de texto más comunes:
+o	Datos abiertos
+o	Web Scraping
+o	Archivos más comunes: .csv, .txt, .json, .zip
+o	Archivos Office: Word, Excel, Google Sheets
+o	PDFs
+o	Imágenes
+o	Aumentación de datos
 
-
-20200822
-
-
-Temario:♦Flujo de datos en un proyecto de NLP (pipeline), ♦Métodos de , adquisición de texto más comunes: ●Datos abiertos, ●Web Scraping ●Archivos más comunes: .csv, .txt, .json, .zip, ●Archivos Office: Word, Excel, Google Sheets, ● PDFs, ● Imágenes, ●Aumentación de datos.
-
-
-Archivos con se trabajó:20200822_2.2.py, 20200822_poemas.zip
-
- 
+Archivos con se trabajó
+•	20200822_2.2.py
+•	20200822_poemas.zip
