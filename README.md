@@ -6,7 +6,7 @@ Mi nombre es Alexandra y en este repositorio encontraras los inicios de mi carre
 
 
 
-*20200822* 
+_*20200822* _
 
 Temario:
 
