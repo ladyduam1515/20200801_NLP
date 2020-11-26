@@ -4,7 +4,7 @@ Hola,
 
 Mi nombre es Alexandra y en este repositorio encontraras los inicios de mi carrera en la ciencia de datos, son aplicaciones prácticas que te permitirán conocer mis habilidades y conocimientos en una de las herramientas más utilidades en la analítica de datos Python, para que sea hacer mejor tu experiencia te dejo una guía del contenido que encontrarás:
 
-![Image](https://images.app.goo.gl/v7g9FS43x7SvV3Gp6)
+![Image](https://us.123rf.com/450wm/michaeljung/michaeljung1504/michaeljung150400342/38371546-cerca-retrato-de-joven-mujer-de-negocios-en-la-oficina-moderna.jpg?ver=6)
 
 ► ► ► ► ►20200822_
 
